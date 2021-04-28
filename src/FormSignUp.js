@@ -1,4 +1,4 @@
-//import React from "react";
+import React from "react";
 import useForm from "./useForm";
 import validate from "./validate";
 const FormSignUp = () => {
